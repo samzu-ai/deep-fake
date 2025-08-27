@@ -1,6 +1,6 @@
 # DeepFake
 # 1. AIGI Detector
-> ##URL## : https://mega.nz/folder/FIBgGDjS#UVb3lMiW01aa6X4eSUl0qg
+> **URL** : https://mega.nz/folder/FIBgGDjS#UVb3lMiW01aa6X4eSUl0qg
 > 
 # 2. Release the pre-trained weights for all detectors in DeepfakeBench
 > **URL** : https://github.com/SCLBD/DeepfakeBench/releases/tag/v1.0.1
