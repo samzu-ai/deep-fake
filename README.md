@@ -1,4 +1,4 @@
-# deepfake
+# DeepFake
 ## - Release the pre-trained weights for all detectors in DeepfakeBench
 ### URL : https://github.com/SCLBD/DeepfakeBench/releases/tag/v1.0.1
 ### Contents : 13 pre-trained weights
